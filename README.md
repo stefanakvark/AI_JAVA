@@ -7,3 +7,5 @@ Path finding in a maze, path finding in a graph, and alpha-beta search in the
 games tic-tac-toe and chess
 
 MazeSearch.java
+
+Thanks to Mark Watson, http://markwatson.com/opensource/ 
